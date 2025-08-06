@@ -10,7 +10,7 @@ export const metadata = {
   openGraph: {
     title: "Code Share Nepal",
     description: "Save and search your code snippets easily.",
-    url: "https://codesharenepal.com",
+    url: "https://sharecodenepal.vercel.app",
     siteName: "Code Share Nepal",
     images: [
       {
