@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://sharecodenepal.vercel.app"),
+  metadataBase: new URL("https://code-share-nepal.vercel.app"),
   title: {
     default: "Code Share Nepal",
     template: "%s | Code Share Nepal",
