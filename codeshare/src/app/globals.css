@@ -12,14 +12,7 @@
   --font-mono: var(--font-geist-mono);
 }
 
-/* 🔥 REMOVE this block completely to prevent system-based overrides
-@media (prefers-color-scheme: light) { 
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-*/
+
 
 body {
   background: var(--background);
