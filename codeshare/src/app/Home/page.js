@@ -131,7 +131,7 @@ export default function Home() {
           className="bg-green-700 px-4 py-2 rounded-sm text-sm font-bold shadow-md text-white cursor-pointer"
           onClick={() => setShowModal(true)}
         >
-          Save Code
+          Share Code
         </button>
         <button
           className="bg-green-700 cursor-pointer px-4 py-2 rounded-sm text-sm shadow-md font-bold text-white"
