@@ -7,3 +7,5 @@ A simple and responsive frontend for the CodeShare application that allows users
 * Retrieve and view shared code using the ID
 * Built with Next JS
 
+# Interface 
+
