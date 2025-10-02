@@ -8,4 +8,5 @@ A simple and responsive frontend for the CodeShare application that allows users
 * Built with Next JS
 
 # Interface 
+<img width="1282" height="603" alt="image" src="https://github.com/user-attachments/assets/5ecd72df-8c2c-4849-989f-5079af3426de" />
 
